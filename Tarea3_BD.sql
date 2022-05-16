@@ -31,7 +31,3 @@ group by store_id
 order by store_id;
 
 
-
-
-
-
